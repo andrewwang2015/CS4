@@ -1,0 +1,39 @@
+2017-02-17T07:06:36+00:00 cs42016vm#01 I: Start test all:0:Problem 2.1: split.
+2017-02-17T07:06:36+00:00 cs42016vm#01 I: Test all:0:Problem 2.1: split is successful.
+2017-02-17T07:06:36+00:00 cs42016vm#01 I: End test all:0:Problem 2.1: split.
+2017-02-17T07:06:36+00:00 cs42016vm#01 I: Start test all:1:Problem 2.1: groupN.
+2017-02-17T07:06:36+00:00 cs42016vm#01 I: Test all:1:Problem 2.1: groupN is successful.
+2017-02-17T07:06:36+00:00 cs42016vm#01 I: End test all:1:Problem 2.1: groupN.
+2017-02-17T07:06:36+00:00 cs42016vm#01 I: Start test all:2:Problem 2.2: even_and_odd_halves_rec.
+2017-02-17T07:06:36+00:00 cs42016vm#01 I: Test all:2:Problem 2.2: even_and_odd_halves_rec is successful.
+2017-02-17T07:06:36+00:00 cs42016vm#01 I: End test all:2:Problem 2.2: even_and_odd_halves_rec.
+2017-02-17T07:06:36+00:00 cs42016vm#01 I: Start test all:3:Problem 2.2: even_and_odd_halves_iter.
+2017-02-17T07:06:36+00:00 cs42016vm#01 I: Test all:3:Problem 2.2: even_and_odd_halves_iter is successful.
+2017-02-17T07:06:36+00:00 cs42016vm#01 I: End test all:3:Problem 2.2: even_and_odd_halves_iter.
+2017-02-17T07:06:36+00:00 cs42016vm#01 I: Start test all:4:Problem 2.2: merge_sort.
+2017-02-17T07:06:36+00:00 cs42016vm#01 I: Test all:4:Problem 2.2: merge_sort is successful.
+2017-02-17T07:06:36+00:00 cs42016vm#01 I: End test all:4:Problem 2.2: merge_sort.
+2017-02-17T07:06:36+00:00 cs42016vm#01 I: Start test all:5:Problem 2.3: bubble.
+2017-02-17T07:06:36+00:00 cs42016vm#01 I: Test all:5:Problem 2.3: bubble is successful.
+2017-02-17T07:06:36+00:00 cs42016vm#01 I: End test all:5:Problem 2.3: bubble.
+2017-02-17T07:06:36+00:00 cs42016vm#01 I: Start test all:6:Problem 2.3: bubble2.
+2017-02-17T07:06:36+00:00 cs42016vm#01 I: Test all:6:Problem 2.3: bubble2 is successful.
+2017-02-17T07:06:36+00:00 cs42016vm#01 I: End test all:6:Problem 2.3: bubble2.
+2017-02-17T07:06:36+00:00 cs42016vm#01 I: Start test all:7:Problem 2.3: bubble_sort.
+2017-02-17T07:06:36+00:00 cs42016vm#01 I: Test all:7:Problem 2.3: bubble_sort is successful.
+2017-02-17T07:06:36+00:00 cs42016vm#01 I: End test all:7:Problem 2.3: bubble_sort.
+2017-02-17T07:06:36+00:00 cs42016vm#01 I: Start test all:8:Problem 3.1: zipWith.
+2017-02-17T07:06:36+00:00 cs42016vm#01 I: Test all:8:Problem 3.1: zipWith is successful.
+2017-02-17T07:06:36+00:00 cs42016vm#01 I: End test all:8:Problem 3.1: zipWith.
+2017-02-17T07:06:36+00:00 cs42016vm#01 I: Start test all:9:Problem 3.2: euler_solve_de.
+2017-02-17T07:06:37+00:00 cs42016vm#01 I: Test all:9:Problem 3.2: euler_solve_de is successful.
+2017-02-17T07:06:37+00:00 cs42016vm#01 I: End test all:9:Problem 3.2: euler_solve_de.
+2017-02-17T07:06:37+00:00 cs42016vm#01 I: Start test all:10:Problem 3.3: iterative_improve.
+2017-02-17T07:06:37+00:00 cs42016vm#01 I: Test all:10:Problem 3.3: iterative_improve is successful.
+2017-02-17T07:06:37+00:00 cs42016vm#01 I: End test all:10:Problem 3.3: iterative_improve.
+2017-02-17T07:06:37+00:00 cs42016vm#01 I: Start test all:11:Problem 4.1: tree_search.
+2017-02-17T07:06:37+00:00 cs42016vm#01 I: Test all:11:Problem 4.1: tree_search is successful.
+2017-02-17T07:06:37+00:00 cs42016vm#01 I: End test all:11:Problem 4.1: tree_search.
+2017-02-17T07:06:37+00:00 cs42016vm#01 I: Start test all:12:Problem 4.2: insert_helper.
+2017-02-17T07:06:37+00:00 cs42016vm#01 I: Test all:12:Problem 4.2: insert_helper is successful.
+2017-02-17T07:06:37+00:00 cs42016vm#01 I: End test all:12:Problem 4.2: insert_helper.
