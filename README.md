@@ -1,2 +1,2 @@
 # CS4: Functional Programming
-Honor code: Do not look if taking or planning to take class. 
+Honor code: If you are taking or plan on taking this class, do not look over these files.
